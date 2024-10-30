@@ -66,3 +66,5 @@ netlify deploy --build
 # production deployment
 netlify deploy --build --prod
 ```
+
+https://github.com/netlify/remix-compute/blob/main/docs/upgrading.md
